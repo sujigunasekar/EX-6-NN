@@ -1,4 +1,4 @@
-<H3>NAME : Suji</H3>
+<H3>NAME : Suji G</H3>
 <H3>REGISTER NO : 212222230152</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
